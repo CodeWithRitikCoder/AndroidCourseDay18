@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project 18 of Android Dev_Open Dialer App using implicit intent</string>
+    <string name="enter_your_number">Enter your Number</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="enter_your_phone_number">Enter your phone Number</string>
+    <string name="dialer_app_opening_using_implicit_intent">Dialer App Opening \nUsing Implicit Intent</string>
+    <string name="empty_no_error">Empty No Error!</string>
+    <string name="please_enter_a_number_here_then_you_can_dial">Please Enter a Number here Then \nyou can Dial</string>
+    <string name="okay">Okay</string>
+    <string name="contact_me">+91 7500788252</string>
+    <string name="dailer_logo">Dial Application</string>
+</resources>
